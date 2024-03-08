@@ -49,3 +49,38 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+
+
+
+.colorcell1 {
+	background-color: #20338C;
+
+}
+
+.colorcell2 {
+	background-color: #8D2B2D;
+
+}
+.colorcell3 {
+	background-color: #EECE6C;
+
+}
+
+.background1 {
+	background-color: #5153A5;
+}
+
+.background2 {
+	background-color: #D7B3E6;
+}
+
+.background3 {
+	background-color: #E4CA72;
+}
+
+
+
+.fonthead {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; color: #52131B
+}

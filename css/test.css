@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+
+
+.t_font {
+    color: #80A1F0;
+    font-weight: bold;
+    font-family: "Kode Mono", monospace;  
+}
+.t_box {
+    width: 400px;
+    height: 400px;
+    background-color: #D481DD;
+    margin-left: 0px;
+    margin-top: 7px;
+    padding-left: 9px;
+    padding-top: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    margin-bottom: 7px;
+    color: #0A196A;
+    text-shadow: 1px 1px 2px #8F0FAD;
+    border-radius: 20px;
+}
+
+#test {background-color: antiquewhite;
+}
