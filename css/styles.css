@@ -84,3 +84,16 @@ body {
 .fonthead {
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"; color: #52131B
 }
+
+.t_font {
+    color: #80A1F0;
+    font-weight: bold;
+    font-family: "Kode Mono", monospace; 
+} 
+
+.title1 {
+	font-weight: bold;
+    font-family: "Kode Mono", monospace; 
+	color: #80A1F0 
+	
+}
